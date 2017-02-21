@@ -1,0 +1,36 @@
+body {
+  background-image: url("http://68.media.tumblr.com/e5da3cb3fbe9af8f2198f3459e72424a/tumblr_inline_n258tklDt11qhwjx8.png");
+}
+
+.box {
+  background-color: rgba(128, 128, 128, 0.4);
+  position: absolute;
+  top: 190px;
+  left: 30%;
+  padding: 100px 70px 50px 70px;
+  width: 700px;
+  border: 0px;
+  border-radius: 10px;
+}
+
+.message{
+  color: #ffb3b3;
+  font-size: 22px;
+  font-family: 'Bad Script';
+}
+
+#button {
+  margin-top: 70px;
+}
+
+.author{
+  font-size: 17px;
+}
+
+.page_title {
+  margin-top: 70px;
+  color: #b3d9ff;
+  font-family: 'Bad Script';
+  text-align: center;
+  font-size: 45px;
+}
